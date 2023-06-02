@@ -1,4 +1,5 @@
-﻿using Kakao.Forms.UI.Views;
+﻿using Jamesnet.Wpf.Controls;
+using Kakao.Forms.UI.Views;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,14 +9,12 @@ using System.Windows;
 
 namespace Kakao
 {
-    internal class App: Application
+    internal class App: JamesApplication
     {
-        protected override void OnStartup(StartupEventArgs e)
+        protected override Window CreateShell()
         {
-            base.OnStartup(e);
-
-            kakaoWindow window = new();
-            window.Show();
+            return new kakaoWindow();
         }
+
     }
 }

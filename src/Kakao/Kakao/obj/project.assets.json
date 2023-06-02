@@ -624,6 +624,22 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
         ]
+      },
+      "Kakao.Login/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.24"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.Login.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Login.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -2569,11 +2585,18 @@
       "type": "project",
       "path": "../Kakao.Forms/Kakao.Forms.csproj",
       "msbuildProject": "../Kakao.Forms/Kakao.Forms.csproj"
+    },
+    "Kakao.Login/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Login/Kakao.Login.csproj",
+      "msbuildProject": "../Kakao.Login/Kakao.Login.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
-      "Kakao.Forms >= 1.0.0"
+      "Jamesnet.Wpf >= 1.0.0.24",
+      "Kakao.Forms >= 1.0.0",
+      "Kakao.Login >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2605,6 +2628,9 @@
           "projectReferences": {
             "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
               "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj"
+            },
+            "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj": {
+              "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj"
             }
           }
         }
@@ -2618,6 +2644,12 @@
     "frameworks": {
       "net7.0-windows7.0": {
         "targetAlias": "net7.0-windows",
+        "dependencies": {
+          "Jamesnet.Wpf": {
+            "target": "Package",
+            "version": "[1.0.0.24, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

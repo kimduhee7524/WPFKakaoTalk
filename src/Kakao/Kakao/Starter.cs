@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Kakao.Settings;
+using System;
 
 namespace Kakao
 {
@@ -11,7 +8,10 @@ namespace Kakao
         [STAThread]
         private static void Main(string[] args)
         {
-            new App().Run();
+            new App()
+                .AddInversionModule<ViewModules>()
+                .AddInversionModule<DirectModules>()
+                .Run();
         }
     }
 }

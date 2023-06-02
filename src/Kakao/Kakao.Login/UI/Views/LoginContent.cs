@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Jamesnet.Wpf.Controls;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,11 +16,11 @@ using System.Windows.Shapes;
 
 namespace Kakao.Login.UI.Views
 {
-    public class LoginConent : Window
+    public class LoginContent : JamesContent
     {
-        static LoginConent()
+        static LoginContent()
         {
-            DefaultStyleKeyProperty.OverrideMetadata(typeof(LoginConent), new FrameworkPropertyMetadata(typeof(LoginConent)));
+            DefaultStyleKeyProperty.OverrideMetadata(typeof(LoginContent), new FrameworkPropertyMetadata(typeof(LoginContent)));
         }
     }
 }

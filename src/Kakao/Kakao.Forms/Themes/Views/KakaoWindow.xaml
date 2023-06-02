@@ -10,6 +10,7 @@
                     <Border Background="{TemplateBinding Background}"
                             BorderBrush="{TemplateBinding BorderBrush}"
                             BorderThickness="{TemplateBinding BorderThickness}">
+                        <james:JamesRegion RegionName="MainRegion"/>
                     </Border>
                 </ControlTemplate>
             </Setter.Value>
