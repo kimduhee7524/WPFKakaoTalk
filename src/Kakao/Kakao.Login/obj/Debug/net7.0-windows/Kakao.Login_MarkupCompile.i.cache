@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\doit\source\repos\Exec\Kakao\Kakao.Login\obj\Debug\net7.0-windows\
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Login\obj\Debug\net7.0-windows\
 Kakao.Login
 none
 false
@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 1981827736222
 Themes\Generic.xaml;Themes\Views\LoginContent.xaml;
 
-False
+True
 

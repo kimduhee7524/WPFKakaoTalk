@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\doit\source\repos\Exec\Kakao\Kakao.Forms\obj\Debug\net7.0-windows\
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Forms\obj\Debug\net7.0-windows\
 Kakao.Forms
 none
 false
@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 2101938752983
 Themes\Generic.xaml;Themes\Views\KakaoWindow.xaml;
 
-False
+True
 

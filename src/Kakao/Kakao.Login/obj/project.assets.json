@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
+      "projectUniqueName": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
       "projectName": "Kakao.Login",
-      "projectPath": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
+      "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
       "packagesPath": "C:\\Users\\doit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao.Login\\obj\\",
+      "outputPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Login\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\doit\\AppData\\Roaming\\NuGet\\NuGet.Config",

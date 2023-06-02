@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FSAlX+WPQcme6iGFmOOEGe0ar1I55aE3HltDInQtbDCamEJ8NFCLB/UEYkxdcomtb/ei1nlCfpb/LvBQPcIyYg==",
+  "dgSpecHash": "lLxHD7LHXDDzoYGb2vdcG1PzofpG1xMqL+NTWGLiOLaMK+kQ4HdW5nweCfEn6Z/KfcFVmG/quPQ8SJf0K8/ezQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
+  "projectFilePath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

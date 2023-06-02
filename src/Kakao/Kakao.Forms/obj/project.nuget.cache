@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XlzE2RPuGqE/TJ+YFlKqh2vgpqCHsr6hJPz5BSVVoURJxc7gAGX86yD89jrY97SpSDkq+8mcork9KtW053hjMw==",
+  "dgSpecHash": "tQJkZSE3mE78XBrUUABfKzEmC8ONF5Z3CcRAcE91mDttaM49TcTlchc++txSvv28fFVToYr5cd1SP0Frr81ruw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
+  "projectFilePath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\doit\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
     "C:\\Users\\doit\\.nuget\\packages\\jamesnet.design\\1.0.0.12\\jamesnet.design.1.0.0.12.nupkg.sha512",

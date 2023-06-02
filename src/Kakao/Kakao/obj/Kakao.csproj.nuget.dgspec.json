@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao\\Kakao.csproj": {}
+    "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao\\Kakao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
+    "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
+        "projectUniqueName": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
         "projectName": "Kakao.Forms",
-        "projectPath": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
+        "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
         "packagesPath": "C:\\Users\\doit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao.Forms\\obj\\",
+        "outputPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\doit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao\\Kakao.csproj": {
+    "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao\\Kakao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao\\Kakao.csproj",
+        "projectUniqueName": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao\\Kakao.csproj",
         "projectName": "Kakao",
-        "projectPath": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao\\Kakao.csproj",
+        "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao\\Kakao.csproj",
         "packagesPath": "C:\\Users\\doit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao\\obj\\",
+        "outputPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\doit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
-                "projectPath": "C:\\Users\\doit\\source\\repos\\Exec\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj"
+              "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
+                "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj"
               }
             }
           }
