@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kakao/1.0.0": {
+        "dependencies": {
+          "Kakao.Forms": "1.0.0"
+        },
+        "runtime": {
+          "Kakao.dll": {}
+        }
+      },
+      "Kakao.Forms/1.0.0": {
+        "runtime": {
+          "Kakao.Forms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kakao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kakao.Forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
