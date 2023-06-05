@@ -1,4 +1,5 @@
 ﻿using Jamesnet.Wpf.Controls;
+using Kakao.Login.Local.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,6 +22,11 @@ namespace Kakao.Login.UI.Views
         static LoginContent()
         {
             DefaultStyleKeyProperty.OverrideMetadata(typeof(LoginContent), new FrameworkPropertyMetadata(typeof(LoginContent)));
+        }
+
+        public LoginContent() 
+        {
+            
         }
     }
 }
