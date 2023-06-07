@@ -10,6 +10,7 @@
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.24",
           "Kakao.Forms": "1.0.0",
+          "Kakao.Friends": "1.0.0",
           "Kakao.Login": "1.0.0"
         },
         "runtime": {
@@ -359,6 +360,14 @@
           "Kakao.Forms.dll": {}
         }
       },
+      "Kakao.Friends/1.0.0": {
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.24"
+        },
+        "runtime": {
+          "Kakao.Friends.dll": {}
+        }
+      },
       "Kakao.Login/1.0.0": {
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.24"
@@ -656,6 +665,11 @@
       "hashPath": "yamldotnet.netcore.1.0.0.nupkg.sha512"
     },
     "Kakao.Forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kakao.Friends/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

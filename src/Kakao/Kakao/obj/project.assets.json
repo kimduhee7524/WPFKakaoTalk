@@ -625,6 +625,22 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "Kakao.Friends/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.24"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.Friends.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Friends.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Kakao.Login/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -2586,6 +2602,11 @@
       "path": "../Kakao.Forms/Kakao.Forms.csproj",
       "msbuildProject": "../Kakao.Forms/Kakao.Forms.csproj"
     },
+    "Kakao.Friends/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Friends/Kakao.Friends.csproj",
+      "msbuildProject": "../Kakao.Friends/Kakao.Friends.csproj"
+    },
     "Kakao.Login/1.0.0": {
       "type": "project",
       "path": "../Kakao.Login/Kakao.Login.csproj",
@@ -2596,6 +2617,7 @@
     "net7.0-windows7.0": [
       "Jamesnet.Wpf >= 1.0.0.24",
       "Kakao.Forms >= 1.0.0",
+      "Kakao.Friends >= 1.0.0",
       "Kakao.Login >= 1.0.0"
     ]
   },
@@ -2628,6 +2650,9 @@
           "projectReferences": {
             "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
               "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj"
+            },
+            "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj": {
+              "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj"
             },
             "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj": {
               "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj"

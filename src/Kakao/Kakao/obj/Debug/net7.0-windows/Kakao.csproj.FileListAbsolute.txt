@@ -30,3 +30,5 @@ C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\obj\Debug\net7.0-win
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\obj\Debug\net7.0-windows\ref\Kakao.dll
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Login.dll
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Login.pdb
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.pdb
