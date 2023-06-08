@@ -609,6 +609,23 @@
           "lib/netstandard1.0/YamlDotNet.NetCore.dll": {}
         }
       },
+      "Kakao.Chats/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.24",
+          "Kakao.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.Chats.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Chats.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Kakao.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -2630,6 +2647,11 @@
         "yamldotnet.netcore.nuspec"
       ]
     },
+    "Kakao.Chats/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Chats/Kakao.Chats.csproj",
+      "msbuildProject": "../Kakao.Chats/Kakao.Chats.csproj"
+    },
     "Kakao.Core/1.0.0": {
       "type": "project",
       "path": "../Kakao.Core/Kakao.Core.csproj",
@@ -2659,6 +2681,7 @@
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
       "Jamesnet.Wpf >= 1.0.0.24",
+      "Kakao.Chats >= 1.0.0",
       "Kakao.Core >= 1.0.0",
       "Kakao.Forms >= 1.0.0",
       "Kakao.Friends >= 1.0.0",
@@ -2693,6 +2716,9 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
+            "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj": {
+              "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj"
+            },
             "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
               "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
             },

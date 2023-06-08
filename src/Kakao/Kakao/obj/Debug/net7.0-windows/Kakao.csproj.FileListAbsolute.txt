@@ -36,3 +36,5 @@ C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\bin\Debug\net7.0-win
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Core.pdb
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Main.dll
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Main.pdb
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Chats.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Chats.pdb
