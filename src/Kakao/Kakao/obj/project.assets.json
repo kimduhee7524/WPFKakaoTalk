@@ -672,6 +672,23 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
         ]
+      },
+      "Kakao.Main/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.24",
+          "Kakao.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.Main.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Main.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -2632,6 +2649,11 @@
       "type": "project",
       "path": "../Kakao.Login/Kakao.Login.csproj",
       "msbuildProject": "../Kakao.Login/Kakao.Login.csproj"
+    },
+    "Kakao.Main/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Main/Kakao.Main.csproj",
+      "msbuildProject": "../Kakao.Main/Kakao.Main.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2640,7 +2662,8 @@
       "Kakao.Core >= 1.0.0",
       "Kakao.Forms >= 1.0.0",
       "Kakao.Friends >= 1.0.0",
-      "Kakao.Login >= 1.0.0"
+      "Kakao.Login >= 1.0.0",
+      "Kakao.Main >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2681,6 +2704,9 @@
             },
             "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj": {
               "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj"
+            },
+            "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj": {
+              "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj"
             }
           }
         }

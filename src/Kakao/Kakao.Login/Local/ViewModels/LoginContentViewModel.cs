@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Kakao.Login.Local.ViewModels
 {
-    public partial class LoginContentViewModel: ObservableBase
+    public partial class LoginContentViewModel: ObservableBase, INavigationAware
     {
         private readonly IRegionManager _regionManager;
         private readonly IContainerProvider _containerProvider;
@@ -22,17 +22,30 @@ namespace Kakao.Login.Local.ViewModels
             _containerProvider = containerProvider;
         }
 
+        public bool IsNavigationTarget(NavigationContext navigationContext)
+        {
+            return true;
+        }
+
+        public void OnNavigatedFrom(NavigationContext navigationContext)
+        {
+        }
+
+        public void OnNavigatedTo(NavigationContext navigationContext)
+        {
+        }
+
         [RelayCommand]
         private void Login()
         {
             IRegion mainRegion = _regionManager.Regions[RegionNameManager.MainRegion];
-            IViewable friendsContent = _containerProvider.Resolve<IViewable>(ContentNameManager.Friends);
+            IViewable mainContent = _containerProvider.Resolve<IViewable>(ContentNameManager.Main);
 
-            if (!mainRegion.Views.Contains(friendsContent))
+            if (!mainRegion.Views.Contains(mainContent))
             {
-                mainRegion.Add(friendsContent);
+                mainRegion.Add(mainContent);
             }
-            mainRegion.Activate(friendsContent);
+            mainRegion.Activate(mainContent);
         }
     }
 }

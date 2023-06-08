@@ -24,13 +24,13 @@ namespace Kakao.Forms.Local.ViewModels
         public void OnLoaded(IViewable view)
         {
             IRegion mainRegion = _regionManager.Regions[RegionNameManager.MainRegion];
-            IViewable loginContent = _containerProvider.Resolve<IViewable>(ContentNameManager.Login);
+            IViewable mainContent = _containerProvider.Resolve<IViewable>(ContentNameManager.Login);
 
-            if (!mainRegion.Views.Contains(loginContent))
+            if (!mainRegion.Views.Contains(mainContent))
             {
-                mainRegion.Add(loginContent);
+                mainRegion.Add(mainContent);
             }
-            mainRegion.Activate(loginContent);
+            mainRegion.Activate(mainContent);
         }
     }
 }
