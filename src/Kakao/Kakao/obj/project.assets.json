@@ -609,11 +609,25 @@
           "lib/netstandard1.0/YamlDotNet.NetCore.dll": {}
         }
       },
+      "Kakao.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Kakao.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Core.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Kakao.Forms/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Jamesnet.Wpf": "1.0.0.24"
+          "Jamesnet.Wpf": "1.0.0.24",
+          "Kakao.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.Forms.dll": {}
@@ -629,7 +643,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Jamesnet.Wpf": "1.0.0.24"
+          "Jamesnet.Wpf": "1.0.0.24",
+          "Kakao.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.Friends.dll": {}
@@ -645,7 +660,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Jamesnet.Wpf": "1.0.0.24"
+          "Jamesnet.Wpf": "1.0.0.24",
+          "Kakao.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.Login.dll": {}
@@ -2597,6 +2613,11 @@
         "yamldotnet.netcore.nuspec"
       ]
     },
+    "Kakao.Core/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Core/Kakao.Core.csproj",
+      "msbuildProject": "../Kakao.Core/Kakao.Core.csproj"
+    },
     "Kakao.Forms/1.0.0": {
       "type": "project",
       "path": "../Kakao.Forms/Kakao.Forms.csproj",
@@ -2616,6 +2637,7 @@
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
       "Jamesnet.Wpf >= 1.0.0.24",
+      "Kakao.Core >= 1.0.0",
       "Kakao.Forms >= 1.0.0",
       "Kakao.Friends >= 1.0.0",
       "Kakao.Login >= 1.0.0"
@@ -2648,6 +2670,9 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
+            "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+              "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+            },
             "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
               "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj"
             },

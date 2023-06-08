@@ -16,3 +16,6 @@ C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Forms\obj\Debug\net7
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Forms\obj\Debug\net7.0-windows\refint\Kakao.Forms.dll
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Forms\obj\Debug\net7.0-windows\Kakao.Forms.pdb
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Forms\obj\Debug\net7.0-windows\ref\Kakao.Forms.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Forms\bin\Debug\net7.0-windows\Kakao.Core.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Forms\bin\Debug\net7.0-windows\Kakao.Core.pdb
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Forms\obj\Debug\net7.0-windows\Kakao.Forms.csproj.CopyComplete

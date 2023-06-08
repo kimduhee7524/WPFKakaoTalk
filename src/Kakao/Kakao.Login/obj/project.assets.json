@@ -608,6 +608,19 @@
         "runtime": {
           "lib/netstandard1.0/YamlDotNet.NetCore.dll": {}
         }
+      },
+      "Kakao.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Kakao.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Core.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -2548,11 +2561,17 @@
         "yamldotnet.netcore.1.0.0.nupkg.sha512",
         "yamldotnet.netcore.nuspec"
       ]
+    },
+    "Kakao.Core/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Core/Kakao.Core.csproj",
+      "msbuildProject": "../Kakao.Core/Kakao.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
-      "Jamesnet.Wpf >= 1.0.0.24"
+      "Jamesnet.Wpf >= 1.0.0.24",
+      "Kakao.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2581,7 +2600,11 @@
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+              "projectPath": "C:\\Users\\doit\\Documents\\GitHub\\WPFKakaoTalk\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

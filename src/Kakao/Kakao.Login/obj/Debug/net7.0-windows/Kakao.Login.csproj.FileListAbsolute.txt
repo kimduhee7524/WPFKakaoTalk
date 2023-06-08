@@ -16,3 +16,6 @@ C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Login\obj\Debug\net7
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Login\obj\Debug\net7.0-windows\refint\Kakao.Login.dll
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Login\obj\Debug\net7.0-windows\Kakao.Login.pdb
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Login\obj\Debug\net7.0-windows\ref\Kakao.Login.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Login\bin\Debug\net7.0-windows\Kakao.Core.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Login\bin\Debug\net7.0-windows\Kakao.Core.pdb
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Login\obj\Debug\net7.0-windows\Kakao.Login.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\bin\Debug\net7.0-windows\Kakao.Core.deps.json
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\bin\Debug\net7.0-windows\Kakao.Core.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\bin\Debug\net7.0-windows\Kakao.Core.pdb
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.csproj.AssemblyReference.cache
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.AssemblyInfoInputs.cache
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.AssemblyInfo.cs
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.csproj.CoreCompileInputs.cache
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\refint\Kakao.Core.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.pdb
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\ref\Kakao.Core.dll

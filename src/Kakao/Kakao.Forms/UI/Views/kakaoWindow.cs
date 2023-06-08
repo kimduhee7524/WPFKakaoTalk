@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Jamesnet.Wpf.Controls;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,7 +18,7 @@ namespace Kakao.Forms.UI.Views
 {
 
 
-    public class kakaoWindow : Window
+    public class kakaoWindow : JamesWindow
     {
         static kakaoWindow()
         {

@@ -16,3 +16,6 @@ C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Friends\obj\Debug\ne
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\Kakao.Friends.AssemblyInfo.cs
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\Kakao.Friends.csproj.CoreCompileInputs.cache
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\ref\Kakao.Friends.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Core.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Core.pdb
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\Kakao.Friends.csproj.CopyComplete
