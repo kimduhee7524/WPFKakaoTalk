@@ -14,7 +14,8 @@
           "Kakao.Forms": "1.0.0",
           "Kakao.Friends": "1.0.0",
           "Kakao.Login": "1.0.0",
-          "Kakao.Main": "1.0.0"
+          "Kakao.Main": "1.0.0",
+          "Kakao.More": "1.0.0"
         },
         "runtime": {
           "Kakao.dll": {}
@@ -404,6 +405,15 @@
         "runtime": {
           "Kakao.Main.dll": {}
         }
+      },
+      "Kakao.More/1.0.0": {
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.24",
+          "Kakao.Core": "1.0.0"
+        },
+        "runtime": {
+          "Kakao.More.dll": {}
+        }
       }
     }
   },
@@ -719,6 +729,11 @@
       "sha512": ""
     },
     "Kakao.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kakao.More/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
