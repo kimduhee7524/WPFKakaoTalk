@@ -19,3 +19,5 @@ C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Main\obj\Debug\net7.
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Main\obj\Debug\net7.0-windows\refint\Kakao.Main.dll
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Main\obj\Debug\net7.0-windows\Kakao.Main.pdb
 C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Main\obj\Debug\net7.0-windows\ref\Kakao.Main.dll
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Main\obj\Debug\net7.0-windows\Themes\Units\VerticalMenuList.baml
+C:\Users\doit\Documents\GitHub\WPFKakaoTalk\src\Kakao\Kakao.Main\obj\Debug\net7.0-windows\Themes\Units\VerticalMenuListItem.baml

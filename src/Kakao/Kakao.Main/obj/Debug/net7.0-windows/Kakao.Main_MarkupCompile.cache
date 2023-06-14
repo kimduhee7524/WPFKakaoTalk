@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 
-21940391596
+4-2015865840
 
-3-68230268
+5-182722825
 211-1587826916
-Themes\Generic.xaml;Themes\Views\MainContent.xaml;
+Themes\Generic.xaml;Themes\Units\VerticalMenuList.xaml;Themes\Units\VerticalMenuListItem.xaml;Themes\Views\MainContent.xaml;
 
 False
 

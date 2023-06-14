@@ -14,4 +14,10 @@
     <ProjectReference Include="..\Kakao.Core\Kakao.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Page Update="Themes\Units\VerticalMenuListItem.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+
 </Project>

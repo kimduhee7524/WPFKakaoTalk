@@ -21,5 +21,10 @@ namespace Kakao.Main.UI.Units
         {
             DefaultStyleKeyProperty.OverrideMetadata(typeof(VerticalMenuList), new FrameworkPropertyMetadata(typeof(VerticalMenuList)));
         }
+
+        protected override DependencyObject GetContainerForItemOverride()
+        {
+            return new VerticalMenuListItem();
+        }
     }
 }
